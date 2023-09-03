@@ -14,7 +14,10 @@ WAVEFORM
 
 
 **yosys simulation**
+
+
 Commands
+
 ```
 read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog pes_elevator.v
@@ -35,6 +38,7 @@ show
 
 
 Generating the netlist
+
 Commands
 ```
 write_verilog -noattr pes_elevator_net.v
