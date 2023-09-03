@@ -32,8 +32,8 @@ pes_elevator UUT(
 //Generate the clock and test the circuit with different inputs
 initial
 begin
-$dumpfile ("elc.vcd"); 
-$dumpvars(0,elevator_controller_tb);
+  $dumpfile ("pes_elevator.vcd"); 
+  $dumpvars(0,pes_elevatorr_tb);
 #0 clk =1'b0; reset =1'b0; over_time=1'b0; over_weight=1'b0;
 //#50 reset =1'b0;
 #25 request_floor = 8'b00000001; in_current_floor = 8'b10000000;
@@ -48,6 +48,7 @@ $dumpvars(0,elevator_controller_tb);
 #100 over_weight =0;
 
 //#50 reset = 1'b1;
+#300 $finish;
 end
 always
 #25 clk=~clk;
