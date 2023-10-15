@@ -13,6 +13,8 @@ WAVEFORM
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/53675f81-056f-4475-825e-b9da7692f501)
 
 
+## GLS 
+
 **yosys simulation**
 
 
@@ -46,7 +48,9 @@ write_verilog -noattr pes_elevator_net.v
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/e00d30d5-3db7-46f2-9387-27cce8550b4e)
 
-## GLS 
+
+**Verification**
+
 
 Commands
 ```
