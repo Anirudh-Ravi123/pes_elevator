@@ -33,7 +33,7 @@ pes_elevator UUT(
 initial
 begin
   $dumpfile ("pes_elevator_tb.vcd"); 
-  $dumpvars(0,pes_elevatorr_tb);
+  $dumpvars(0,pes_elevator_tb);
 #0 clk =1'b0; reset =1'b0; over_time=1'b0; over_weight=1'b0;
 //#50 reset =1'b0;
 #25 request_floor = 8'b00000001; in_current_floor = 8'b10000000;
