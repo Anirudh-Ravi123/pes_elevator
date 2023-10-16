@@ -12,7 +12,7 @@ gtkwave pes_elevator_tb.vcd
 
 WAVEFORM 
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/53675f81-056f-4475-825e-b9da7692f501)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/da83baa3-b6d5-4a15-8873-ab938ff4a069)
 
 
 ## GLS 
