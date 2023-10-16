@@ -6,7 +6,9 @@ iverilog pes_elevator.v pes_elevator_tb.v
 ./a.out
 gtkwave pes_elevator_tb.vcd
 ```
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/1491d594-0fb4-4d98-b512-d22ec937c68e)
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/deb58f7a-ede0-41a1-9c10-ba6c871e550c)
+
 
 WAVEFORM 
 
@@ -21,21 +23,22 @@ WAVEFORM
 Commands
 
 ```
-read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog pes_elevator.v
 synth -top pes_elevator
 abc -liberty ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 show
 ```
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/c4556d32-9afd-4bda-b636-dd1a187eb9af)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/67361018-03fd-48ac-af62-912d207355f4)
 
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/91bf1d31-bed7-4e36-8993-3d748544990d)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/8e5634f0-5e0d-4a81-acce-80dc4caf489e)
 
 
 **design**
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/b51e85b3-ac9b-475a-8de8-182fd30c6e8e)
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/bd91b7fc-aa57-44a5-ab05-36fda0aeef81)
 
 
 
@@ -46,7 +49,7 @@ Commands
 write_verilog -noattr pes_elevator_net.v
 ```
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/e00d30d5-3db7-46f2-9387-27cce8550b4e)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/7f140452-4277-4270-b7eb-757ff7524e05)
 
 
 **Verification**
@@ -59,7 +62,7 @@ iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_
 gtkwave pes_elevator_tb_net.v
 ```
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/08ad123a-6796-4583-a945-dd6ee2f42e6e)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/72c5fa8d-92ab-48d8-a57c-7f38181686b8)
 
 
 **WAVEFORM**
