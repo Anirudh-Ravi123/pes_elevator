@@ -67,6 +67,6 @@ gtkwave pes_elevator_tb_net.v
 
 **WAVEFORM**
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/a0657e61-1010-44b1-98f0-d7316417abe9)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/fd8711f8-028c-456e-bfba-9244ac58acd6)
 
 
