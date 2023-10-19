@@ -1,7 +1,7 @@
 # pes_elevator
-Elevator controllers are sophisticated electronic systems designed to manage the movement, safety, and efficiency of elevators within buildings.It is designed to manage the movement and status of an elevator. It takes input signals for the requested floor, current floor, clock, reset, and conditions indicating prolonged door opening or excessive weight.
+Elevator controllers are sophisticated electronic systems designed to manage the movement, safety, and efficiency of elevators within buildings.They serve as the central intelligence behind vertical transportation systems, seamlessly integrating hardware and software to ensure smooth, safe, and efficient operation of elevators within buildings.It is designed to manage the movement and status of an elevator. 
 
-The module determines the elevator's direction, current floor, and operational status based on these inputs. It features safety checks: if the elevator door is open for more than 3 minutes, a door alert is triggered, and if the elevator is overloaded, a weight alert is activated.The module outputs signals indicating the elevator's direction, operational status, door alert, weight alert, and the current floor. It provides a versatile and essential component for elevator control systems.
+It takes input signals for the requested floor, current floor, clock, reset, and conditions indicating prolonged door opening or excessive weight.The module determines the elevator's direction, current floor, and operational status based on these inputs. It features safety checks: if the elevator door is open for more than 3 minutes, a door alert is triggered, and if the elevator is overloaded, a weight alert is activated.The module outputs signals indicating the elevator's direction, operational status, door alert, weight alert, and the current floor. It provides a versatile and essential component for elevator control systems.
 
 ## Iverilog simulation
 Commands
