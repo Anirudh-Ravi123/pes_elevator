@@ -3,6 +3,9 @@ Elevator controllers are sophisticated electronic systems designed to manage the
 
 Elevator controller has been designed for a 8 story building. It takes input signals for the requested floor, current floor, clock, reset, and conditions indicating prolonged door opening or excessive weight.The module determines the elevator's direction, current floor, and operational status based on these inputs. It features safety checks: if the elevator door is open for more than 3 minutes, a door alert is triggered, and if the elevator is overloaded, a weight alert is activated.The module outputs signals indicating the elevator's direction, operational status, door alert, weight alert, and the current floor. It provides a versatile and essential component for elevator control systems.
 
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/154a3bfb-7d16-4158-9be2-c5ca665e7e53)
+
+
 ## Iverilog simulation
 Commands
 ```
