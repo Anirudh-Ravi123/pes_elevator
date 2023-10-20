@@ -74,6 +74,7 @@ gtkwave pes_elevator_tb_net.v
 
 **WAVEFORM**
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/fd8711f8-028c-456e-bfba-9244ac58acd6)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/b599dd5e-1bb6-4ccc-81ac-f745ea76207e)
 
+The synthesis synthesis and simulation are matching.
 
