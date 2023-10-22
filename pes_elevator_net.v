@@ -498,6 +498,7 @@ module pes_elevator(request_floor, in_current_floor, clk, reset, complete, direc
     .B(_111_),
     .Y(_073_)
   );
+  /*abcd */
   always @(posedge clk)
     if (_003_) r_out_current_floor[0] <= _000_[0];
   always @(posedge clk)
