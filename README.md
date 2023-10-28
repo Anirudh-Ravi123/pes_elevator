@@ -95,7 +95,8 @@ First create a folder with the project name in the designs folder and add the co
 
 Contents of config.json file
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/60f2bf9c-1236-49eb-9ec5-a9d2d374ede9)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/5996ea83-00e7-433e-8ebf-859a2dcce152)
+
 
 
 Now we navigate to the openlane directory in terminal and run the commands 
