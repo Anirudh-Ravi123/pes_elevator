@@ -121,3 +121,8 @@ Results:
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3e0124a9-583a-4ce8-95cb-00af8cfe9f23)
 
+
+**Slack after synthesis**
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/a37a5089-c5f5-4393-ab80-1fa56878b22b)
+
