@@ -112,7 +112,9 @@ To run the design we run the command
 ```
 prep -design pes_elevator
 ```
-For synthesis:```run_synthesis```
+
+**SYNTHESIS**
+To run synthesis:```run_synthesis```
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/11a1d586-5b85-4b97-80ff-88df450f01e1)
 
@@ -125,4 +127,18 @@ Results:
 **Slack after synthesis**
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/a37a5089-c5f5-4393-ab80-1fa56878b22b)
+
+
+**FLOORPLAN**
+To run floorplan:```run_floorplan```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/56e64480-659b-4914-8244-8892769077b3)
+
+
+Results:
+
+Core and Die area
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3695dd65-b0e7-42e1-b90a-da8eabd9227d)
+
 
