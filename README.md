@@ -98,3 +98,26 @@ Contents of config.json file
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/60f2bf9c-1236-49eb-9ec5-a9d2d374ede9)
 
 
+Now we navigate to the openlane directory in terminal and run the commands 
+
+```
+make mount
+./flow.tcl -interactive
+```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/67c057bb-b224-4c01-8a75-7b614c3d3f55)
+
+
+To run the design we run the command
+```
+prep -design pes_elevator
+```
+For synthesis:```run_synthesis```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/11a1d586-5b85-4b97-80ff-88df450f01e1)
+
+
+Results:
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3e0124a9-583a-4ce8-95cb-00af8cfe9f23)
+
