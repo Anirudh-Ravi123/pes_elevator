@@ -78,3 +78,23 @@ gtkwave pes_elevator_tb_net.v
 
 The synthesis  and simulation waveforms are matching.
 
+
+
+# Openlane 
+
+First create a folder with the project name in the designs folder and add the congif.json file and the verilog file to the folder. Create a src folder within the design folder and add all the libraries required.
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/54fa3b88-bf6a-41be-b0f3-c9bff6a07863)
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/5c2c6e01-80bf-496f-a133-70fafdc6b9a7)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/523506b2-7c75-4790-b038-989622ce0a3d)
+
+
+
+Contents of config.json file
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/60f2bf9c-1236-49eb-9ec5-a9d2d374ede9)
+
+
