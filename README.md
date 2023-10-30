@@ -1,4 +1,4 @@
-# pes_elevator
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/15520c89-0a8f-4fe6-b0e8-fbc8a88da3a3)![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/990d0a02-70fa-47ad-ba9b-22472b5b88d4)# pes_elevator
 Elevator controllers are sophisticated electronic systems designed to manage the movement, safety, and efficiency of elevators within buildings.They serve as the central intelligence behind vertical transportation systems, seamlessly integrating hardware and software to ensure smooth, safe, and efficient operation of elevators within buildings.It is designed to manage the movement and status of an elevator. 
 
 Elevator controller has been designed for a 8 story building. It takes input signals for the requested floor, current floor, clock, reset, and conditions indicating prolonged door opening or excessive weight.The module determines the elevator's direction, current floor, and operational status based on these inputs. It features safety checks: if the elevator door is open for more than 3 minutes, a door alert is triggered, and if the elevator is overloaded, a weight alert is activated.The module outputs signals indicating the elevator's direction, operational status, door alert, weight alert, and the current floor. It provides a versatile and essential component for elevator control systems.
@@ -131,7 +131,7 @@ Results:
 
 
 **FLOORPLAN**
-To run floorplan:```run_floorplan```
+Command to run floorplan:```run_floorplan```
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/0fcd7177-06cd-4bfe-9a3c-703ad95ef374)
 
@@ -142,4 +142,34 @@ Core and Die area
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/ce350044-13ff-4efa-87f5-eb6a150cd297)
 
+
+To view the design we type 
+
+```
+magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.nom.lef def pes_elevator.def &
+```
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/494e750f-0fdf-4245-8c30-770b74fed303)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/680ce772-8214-4ad5-ab15-34fb6c5b7115)
+
+
+**PLACEMENT**
+Command to run placement:```run_placement```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/8f1c5adf-6803-4cd8-9707-40c2fe1e1d8d)
+
+
+Results
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/b9dc5ee4-0aa1-4b0d-b899-bdc78998c895)
+
+
+To view the design we type 
+
+```
+magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.nom.lef def pes_elevator.def &
+```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/86564e99-da74-49ad-905c-a35474e4e26a)
 
