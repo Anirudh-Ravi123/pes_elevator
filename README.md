@@ -173,3 +173,57 @@ magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech le
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/86564e99-da74-49ad-905c-a35474e4e26a)
 
+
+**CTS(CLOCK TREE SYNTHESIS)**
+Command to cts:```run_cts```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/f214277f-8c96-43d8-922f-d55f184af199)
+
+
+Results
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/be1a6f7e-ec58-4cd0-b9da-170d4fdab444)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/2ff42620-ee0d-4bcf-8d87-e8f061db927e)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/a2d0336c-8f21-44d4-93fd-abcdeb32b737)
+
+
+
+**ROUTING**
+Command to run routing:```run_routing```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/c1d5c7a5-19ff-41d2-8967-cefdf7af9861)
+
+
+Results
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/692e1278-8e43-4bff-a1b1-0f8f566c9418)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/08ae2e72-e882-4898-a2df-dddee590fbfe)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3622cdb7-c22f-4188-aed1-329d95b5af3c)
+
+
+To view the design we type 
+
+```
+magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.nom.lef def pes_elevator.def &
+```
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/7b9ac352-3db2-4104-a05c-592ce96eac59)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/46085d73-72ad-40d0-b465-ed23031dade6)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/c8def5d2-f0d0-427a-8930-d89d57cd916a)
+
+
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/004d2de2-0abf-4131-a37b-7055f08ff07b)
+
