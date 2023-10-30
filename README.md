@@ -117,17 +117,17 @@ prep -design pes_elevator
 **SYNTHESIS**
 To run synthesis:```run_synthesis```
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/11a1d586-5b85-4b97-80ff-88df450f01e1)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/4f1231e0-75b9-4883-a7f7-67e8bb856810)
 
 
 Results:
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3e0124a9-583a-4ce8-95cb-00af8cfe9f23)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/994bcf26-f951-4bc7-9a18-6a178cc18fa1)
 
 
 **Slack after synthesis**
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/a37a5089-c5f5-4393-ab80-1fa56878b22b)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/bf01cdee-fce0-4511-bd76-092a03aec2bd)
 
 
 **FLOORPLAN**
