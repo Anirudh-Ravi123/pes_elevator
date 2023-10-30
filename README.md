@@ -133,13 +133,13 @@ Results:
 **FLOORPLAN**
 To run floorplan:```run_floorplan```
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/56e64480-659b-4914-8244-8892769077b3)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/0fcd7177-06cd-4bfe-9a3c-703ad95ef374)
 
 
 Results:
 
 Core and Die area
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3695dd65-b0e7-42e1-b90a-da8eabd9227d)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/ce350044-13ff-4efa-87f5-eb6a150cd297)
 
 
