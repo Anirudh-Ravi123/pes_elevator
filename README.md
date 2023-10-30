@@ -227,3 +227,10 @@ magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech le
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/004d2de2-0abf-4131-a37b-7055f08ff07b)
 
+
+**STATISTICS**
+
+- Internal Power = 1.38e-05  W
+- Switching Power = 6.58e-06 
+- Leakage Power =  6.46e-10
+- Total Power =  2.04e-05
