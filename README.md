@@ -95,7 +95,7 @@ First create a folder with the project name in the designs folder and add the co
 
 Contents of config.json file
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/5996ea83-00e7-433e-8ebf-859a2dcce152)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/db0c7b68-d391-42c4-8e24-cddd247eaeac)
 
 
 
