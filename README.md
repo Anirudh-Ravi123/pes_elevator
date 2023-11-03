@@ -232,7 +232,7 @@ magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech le
 
 **STATISTICS**
 
-- Internal Power = 1.38e-05  W
-- Switching Power = 6.58e-06 
-- Leakage Power =  6.46e-10
-- Total Power =  2.04e-05
+- Internal Power = 1.37e-05  W
+- Switching Power = 5.40e-06 
+- Leakage Power =  6.47e-10
+- Total Power =  1.91e-05
