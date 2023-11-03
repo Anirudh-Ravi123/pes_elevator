@@ -199,15 +199,17 @@ Command to run routing:```run_routing```
 
 
 Results
+**Power Result**
 
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/cdf365bb-8ba3-4c97-b696-6627f78919e4)
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/692e1278-8e43-4bff-a1b1-0f8f566c9418)
+**Skew Report**
 
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/2a01fd0d-9ef1-49e8-8ffb-856b5b95dbeb)
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/08ae2e72-e882-4898-a2df-dddee590fbfe)
+**Area and Summary Report**
 
-
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/3622cdb7-c22f-4188-aed1-329d95b5af3c)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/4af4c756-7fe4-470d-bfe5-92fa9567e39c)
 
 
 To view the design we type 
@@ -222,7 +224,7 @@ magic -T /home/anirudhravi/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech le
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/46085d73-72ad-40d0-b465-ed23031dade6)
 
 
-![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/c8def5d2-f0d0-427a-8930-d89d57cd916a)
+![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/e53ad7f5-dcc2-4423-a08a-db603e152fd4)
 
 
 ![image](https://github.com/Anirudh-Ravi123/pes_elevator/assets/142154804/004d2de2-0abf-4131-a37b-7055f08ff07b)
